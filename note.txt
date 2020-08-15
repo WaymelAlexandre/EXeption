@@ -1,0 +1,28 @@
+Exception Handling
+
+Create a program that receives data from user input for people entering a class room.
+
+The data that needs to be collected is:
+
+        Room number - TD224, AGSE111
+        Name - John Doe, Jane Black
+        Date entered - 03/08/2020, 23/02/2020
+        Time entered - 14:30, 08:20
+        Amount of time person stayed in min - 12, 15, 300
+
+ 
+
+    Program must handle at least two types of exception
+
+ 
+
+Extension
+
+    Instead of entering the amount of time stayed, enter the date and time the person left
+    Calculate the amount of time stayed from the given dat
+
+ 
+
+Extension 2
+
+    Do not allow entry of date and time left without having a date and time entered for a person
